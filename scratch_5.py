@@ -77,4 +77,4 @@ turtle.clear
 # west(x)
 # south(x)
 # redcross()
-turtle.exitonclick()
+# turtle.exitonclick()
